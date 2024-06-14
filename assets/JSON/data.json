@@ -1,0 +1,52 @@
+[
+    {
+        "titulo": "Completar informe mensual",
+        "descripcion": "Generar informe detallado de las actividades realizadas durante el mes.",
+        "autor": "Juan Pérez",
+        "fecha": "2024-06-09",
+        "id": "732ab271-883a-4bbc-bc79-4129d9cbd135"
+    },
+    {
+        "titulo": "Reunión de equipo",
+        "descripcion": "Planificar las próximas tareas y asignar responsabilidades.",
+        "autor": "María González",
+        "fecha": "2024-06-10",
+        "id": "72630a8c-60f8-4e4d-acec-ce42d9d11c0e"
+    },
+    {
+        "titulo": "Actualizar base de datos",
+        "descripcion": "Corregir errores y agregar nuevos registros a la base de datos principal.",
+        "autor": "Carlos Martínez",
+        "fecha": "2024-06-11",
+        "id": "fc62bba5-4e1d-47a3-8d57-6ddcfaeca5b9"
+    },
+    {
+        "titulo": "Desarrollar nueva funcionalidad",
+        "descripcion": "Implementar una nueva característica según los requisitos del cliente.",
+        "autor": "Laura Rodríguez",
+        "fecha": "2024-06-12",
+        "id": "b54b257f-29d9-4802-90b8-45f85de5e2d5"
+    },
+    {
+        "titulo": "Realizar pruebas de rendimiento",
+        "descripcion": "Evaluar el rendimiento del sistema bajo diferentes condiciones de carga.",
+        "autor": "David López",
+        "fecha": "2024-06-13",
+        "id": "29160993-858b-479d-857f-423afad65a0a"
+    },
+    {
+        "titulo": "Optimizar código existente",
+        "descripcion": "Refactorizar el código para mejorar su eficiencia y mantenibilidad.",
+        "autor": "Ana Sánchez",
+        "fecha": "2024-06-14",
+        "id": "6653097f-c1c5-42a0-b888-10ad0ed6b186"
+    }
+    ,
+    {
+        "titulo": "prueba",
+        "descripcion": "hola",
+        "autor": "piazza",
+        "fecha": "2024-06-14",
+        "id": "6653097f-c1c5-42a0-b888-10ad0ed6b189"
+    }
+]
